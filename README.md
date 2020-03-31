@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Fundamental Intuition
 
-You can use the [editor on GitHub](https://github.com/FunInt/Development/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this site will be to provide content and support through the delivery of building blocks that encourages internal and external awareness. 
 
-Whenever you commit to this repository, GitHub Pages will run [fundamentalintuition](https://fundamentalintuition.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Key Points
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Self Identity
+# Social Awareness
+# Pattern Recognition
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### This page is still under development
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FunInt/Development/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you for checking out the website
