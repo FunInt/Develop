@@ -1,12 +1,12 @@
 ## Welcome to Fundamental Intuition
 
-The purpose of this site will be to provide content and support through the delivery of building blocks that encourages internal and external awareness. 
+Developing an approach to better understanding the world around you through engaging awareness into your sense of intuition about yourself and the world around you. The study of physics I believe is foundational to building a sense of understanding the interactions between you and the world around you. 
 
 ### Key Points
 ```markdown
-# Self Identity
-# Social Awareness
-# Pattern Recognition
+# Study of Physics
+# Engaging Community
+# Building Trust
 ```
 
 ### This page is still under development
